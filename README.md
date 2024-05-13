@@ -22,7 +22,7 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1IyYwgMBHu2NC1jHKwXWoWjyG7QoT3laZ/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1ENNfAveBYF74JXwQzf6w2Q1uDebl12Gp/view?usp=sharing).
 
 ## Skills
 
