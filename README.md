@@ -15,14 +15,14 @@
 
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I got my Master's Degree from Sri Lanka Institute of Information Technology. My research centered on machine learning, specifically in image analysis for geographical identification. I developed models to accurately identify locations depicted in pictures.
 
 Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
 
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1pKx_fTkzoZqSpZnFgstoISTnhMsMTSrC/view?usp=sharing).
 
 ## Skills
 
@@ -68,10 +68,6 @@ __TestRail__
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
-
-__SoapUI__
-
-__Browser developer tools__
 
 __VirtualBox__
   * able to set up and operate virtual machines
@@ -138,4 +134,3 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
 
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
-
