@@ -9,7 +9,7 @@
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
-- [Currently Learning](#Currently-Learning-) 
+- [Currently Learning](#Currently-Learning) 
 
 ## About me
 
