@@ -121,5 +121,5 @@ __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - compreh
 - ☁️ AWS Cloud Architect Programme — QA Academy (89-hour course, in progress)
 - 🔧 Ansible configuration management
 - 📊 Prometheus & Grafana monitoring
-__ 🔄 Apache Airflow workflow orchestration
--
+- 🔄 Apache Airflow workflow orchestration
+
