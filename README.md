@@ -118,8 +118,8 @@ __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very b
 
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
 📚 Currently Learning
-__ ☁️ AWS Cloud Architect Programme — QA Academy (89-hour course, in progress)
-__ 🔧 Ansible configuration management
-__ 📊 Prometheus & Grafana monitoring
+- ☁️ AWS Cloud Architect Programme — QA Academy (89-hour course, in progress)
+- 🔧 Ansible configuration management
+- 📊 Prometheus & Grafana monitoring
 __ 🔄 Apache Airflow workflow orchestration
-
+-
