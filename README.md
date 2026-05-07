@@ -9,6 +9,7 @@
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
+- [Currently Learning](#Currently-Learning-) 
 
 ## About me
 
@@ -117,7 +118,7 @@ __Mind maps & diagrams__
 __"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
 
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
-📚 Currently Learning
+- 📚 Currently Learning
 - ☁️ AWS Cloud Architect Programme — QA Academy (89-hour course, in progress)
 - 🔧 Ansible configuration management
 - 📊 Prometheus & Grafana monitoring
